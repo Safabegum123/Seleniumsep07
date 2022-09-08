@@ -10,6 +10,7 @@ public class DemoClass {
         driver.get("https://amazon.com");
         String text= driver.getTitle();
         System.out.println(text);
+        System.out.println("Safa");
 
     }
 }
